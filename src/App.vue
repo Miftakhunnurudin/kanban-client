@@ -27,7 +27,7 @@ export default {
     data(){
         return{
             halaman:'login',
-            baseUrl: 'http://quiet-river-98012.herokuapp.com/'
+            baseUrl: 'https://quiet-river-98012.herokuapp.com/'
         }
     },
     methods:{
